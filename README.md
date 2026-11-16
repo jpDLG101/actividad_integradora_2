@@ -20,3 +20,7 @@ python3 src/main.py examples/entrada1.txt
 - [ESPECIFICACION](docs/ESPECIFICACION.md): entrada, salida y supuestos.
 - [ARQUITECTURA](docs/ARQUITECTURA.md): módulos y contratos.
 - [REPARTO](docs/REPARTO.md): quién hace qué y en qué orden.
+
+## Trabajo del equipo
+
+El trabajo se hace en orden, un issue por persona: [#1](../../issues/1) → [#2](../../issues/2) → [#3](../../issues/3). Ver [REPARTO](docs/REPARTO.md).
